@@ -1,6 +1,6 @@
-city,population_density,clear_water_availability,aqi,literacy_rate,crime_rate
-Bangalore,16925,125,91,87.67,55.33
-Delhi,11297,240,131,86.21,59.3
-Mumbai,29000,45,60,89.21,47.59
-Chennai,26553,108,96,90.18,39.24
-Kolkata,24000,234,44,86.31,51.43
+City,Unemployment_Rate,Population_Density,Clean_Water_Availability,Air_Quality_Index,Literacy_Rate,Crime_Rate,Average_Temperature_Rate
+Bangalore,2.5%,16925,100 to 125 liters per capita per day,91,87.67%,55.33,"22.9 °C | 73.1 °F"
+Delhi,9.66%,11297,240 liters per capita per day,131,86.21%,59.3,"24.6 °C | 76.3 °F"
+Mumbai,6.5%,29000,45 liters per capita per day,60,89.21%,47.59,"32 °C (90 °F)"
+Chennai,3.39%,26553,108 liters per capita per day,96,90.18%,39.24,"32.3 °C (90 °F)"
+Kolkata,5.3%,24000,234 liters per capita per day,44,86.31%,51.43,"26.0 °C | 78.8 °F"
